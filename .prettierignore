@@ -1,6 +1,5 @@
 test/fixtures/**/*.md
 test/fixtures/**/*.astro
 **/dist
-pnpm-lock.yaml
-.github
+package-lock.json
 .changeset
