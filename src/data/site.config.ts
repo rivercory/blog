@@ -14,6 +14,5 @@ export const siteConfig: SiteConfig = {
 	description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
 	lang: 'ko-KR',
 	ogLocale: 'ko_KR',
-	shareMessage: 'Share this post',
 	paginationSize: 6
 }

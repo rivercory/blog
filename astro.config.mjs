@@ -5,7 +5,7 @@ import tailwind from '@astrojs/tailwind'
 import { remarkReadingTime } from './src/utils/readTime.ts'
 
 export default defineConfig({
-	site: 'https://rivercor.vercel.app',
+	site: 'https://riverblog.pages.dev',
 	markdown: {
 		remarkPlugins: [remarkReadingTime],
 		drafts: true,
